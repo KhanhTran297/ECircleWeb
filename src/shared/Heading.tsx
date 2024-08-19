@@ -1,5 +1,3 @@
-import React from "react";
-
 const Heading = ({ title, subtitle }: { title: string; subtitle: string }) => {
   return (
     <div className="mb-10 text-center max-w-[600px] mx-auto space-y-2">
