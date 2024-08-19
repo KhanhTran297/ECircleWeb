@@ -1,4 +1,3 @@
-import React from "react";
 import Heading from "../../shared/Heading";
 import img1 from "../../assets/blogs/blog-1.jpg";
 import img2 from "../../assets/blogs/blog-2.jpg";

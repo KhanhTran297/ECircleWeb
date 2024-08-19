@@ -1,4 +1,3 @@
-import React from "react";
 type bannerData = {
   discount: string;
   title: string;

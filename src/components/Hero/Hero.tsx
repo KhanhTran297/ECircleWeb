@@ -1,4 +1,3 @@
-import React from "react";
 import Slider from "react-slick";
 import headphoneimg from "../../assets/hero/headphone.png";
 import vrimg from "../../assets/category/vr.png";
